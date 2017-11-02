@@ -30,7 +30,7 @@ print "```\n";
 
 my $date = "";
 for ( sort { $b->{date} cmp $a->{date} } @activities ) {
-    print "$_->{date}\n" unless $_->{date} eq $date;
+    print "\n$_->{date}\n" unless $_->{date} eq $date;
     print "* $_->{type} ";
     print $_->{url} ? "[$_->{what}]($_->{url})" : "$_->{what}";
     print "\n";
