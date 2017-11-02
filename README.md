@@ -2,7 +2,7 @@
 passed   +
 attented +
 wrote    ++++++
-read     ++++++++++
+read     ++++++++++++
 coded    +++++++++++++
 ```
 
@@ -72,3 +72,9 @@ coded    +++++++++++++
 2013-03
 * read [L. Wall on Perl, religion, and...](http://interviews.slashdot.org/story/02/09/06/1343222/larry-wall-on-perl-religion-and)
 * coded [orsr](https://github.com/jreisinger/audit/tree/master/orsr)
+
+2010-03
+* read Llama Book
+
+2008-12
+* read Classic Shell Scripting
