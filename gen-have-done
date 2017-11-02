@@ -18,13 +18,15 @@ while (<>) {
 }
 
 my %count;
+my $longest = 0;
 for (@activities) {
     $count{ $_->{type} }++;
+    $longest = length( $_->{type} ) if length( $_->{type} ) > $longest;
 }
 
 print "```\n";
 for ( sort { $count{$a} <=> $count{$b} } keys %count ) {
-    printf "%-5s %s\n", $_, "+" x $count{$_};
+    printf "%-${longest}s %s\n", $_, "+" x $count{$_};
 }
 print "```\n";
 
