@@ -1,0 +1,2 @@
+language: perl
+script: ./gen-have-done activities.txt > README.md
