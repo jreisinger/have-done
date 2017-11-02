@@ -1,4 +1,5 @@
 #YYYY[-MM]|ACTIVITY|SUBJECT|[URL]
+2017-11|coded|have-done|https://github.com/jreisinger/have-done
 2017-10|attended|OpenSlava|http://www.openslava.sk/2017
 2017-09|read|Foundations of Python Network Programming|http://www.apress.com/gp/book/9781430258544
 2017-07|wrote|Devops|http://jreisinger.blogspot.sk/2017/07/devops.html

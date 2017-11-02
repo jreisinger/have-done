@@ -1,10 +1,13 @@
 ```
-passed   +
 attended +
+passed   +
 wrote    ++++++
 read     ++++++++++++
-coded    +++++++++++++
+coded    ++++++++++++++
 ```
+
+2017-11
+* coded [have-done](https://github.com/jreisinger/have-done)
 
 2017-10
 * attended [OpenSlava](http://www.openslava.sk/2017)
