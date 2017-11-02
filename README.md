@@ -1,13 +1,13 @@
 ```
 passed   +
-attented +
+attended +
 wrote    ++++++
 read     ++++++++++++
 coded    +++++++++++++
 ```
 
 2017-10
-* attented [OpenSlava](http://www.openslava.sk/2017)
+* attended [OpenSlava](http://www.openslava.sk/2017)
 
 2017-09
 * read [Foundations of Python Network Programming](http://www.apress.com/gp/book/9781430258544)
