@@ -20,7 +20,7 @@ coded    +++++++++++++
 
 2017-05
 * read [Programming in C](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410)
-* read [Thinks Python](http://greenteapress.com/wp/think-python-2e/)
+* read [Think Python](http://greenteapress.com/wp/think-python-2e/)
 
 2017-03
 * read [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
