@@ -1,2 +1,2 @@
-language: perl
+language: bash
 script: ./gen-have-done activities.txt > README.md
