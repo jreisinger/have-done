@@ -1,0 +1,38 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+my @activities;
+
+while (<>) {
+    next if /^\s*#/;
+    chomp;
+    my ( $date, $type, $what, $url ) = split /\|/;
+    push @activities,
+      {
+        type => $type,
+        what => $what,
+        date => $date,
+        url  => $url,
+      };
+}
+
+my %count;
+for (@activities) {
+    $count{ $_->{type} }++;
+}
+
+print "```\n";
+for ( sort { $count{$a} <=> $count{$b} } keys %count ) {
+    printf "%-5s %s\n", $_, "+" x $count{$_};
+}
+print "```\n";
+
+my $date = "";
+for ( sort { $b->{date} cmp $a->{date} } @activities ) {
+    print "$_->{date}\n" unless $_->{date} eq $date;
+    print "* $_->{type} ";
+    print $_->{url} ? "[$_->{what}]($_->{url})" : "$_->{what}";
+    print "\n";
+    $date = $_->{date};
+}
