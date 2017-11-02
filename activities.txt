@@ -4,7 +4,7 @@
 2017-07|wrote|Devops|http://jreisinger.blogspot.sk/2017/07/devops.html
 2017-06|read|The Return of the King|
 2017-05|read|Programming in C|https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410
-2017-05|read|Thinks Python|http://greenteapress.com/wp/think-python-2e/
+2017-05|read|Think Python|http://greenteapress.com/wp/think-python-2e/
 2017-03|read|Grokking Algorithms|https://www.manning.com/books/grokking-algorithms
 2017-03|wrote|PM post|http://perlmonks.org/?node_id=1184546
 2017-03|read|Python Crash Course|https://www.nostarch.com/pythoncrashcourse
