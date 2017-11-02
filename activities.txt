@@ -20,3 +20,13 @@
 2016-09|wrote|CPAN|https://github.com/jreisinger/blog/blob/master/posts/finding-good-cpan-module.md
 2016-05|wrote|tcpdump|https://github.com/jreisinger/blog/blob/master/posts/tcpdump.md
 2016-05|wrote|Vagrant|https://github.com/jreisinger/blog/blob/master/posts/vagrant.md
+2013-09|coded|sysadmin utility belt|https://github.com/jreisinger/MyUtils
+2013-09|coded|teacher|https://github.com/jreisinger/teacher
+2013-08|coded|Otter scripts|https://github.com/jreisinger/linux/tree/master/otter
+2013-07|coded|monitor|https://github.com/jreisinger/monitor
+2013-07|coded|shell over HTTP|https://github.com/jreisinger/http-sh
+2013-06|coded|geo-locate-ip.pl|https://github.com/jreisinger/linux/blob/master/geo-locate-ip.pl
+2013-05|coded|dlznik.pl|https://github.com/jreisinger/audit/blob/master/scripts/dlznik.pl
+2013-05|passed|ICND1
+2013-03|read|L. Wall on Perl, religion, and...|http://interviews.slashdot.org/story/02/09/06/1343222/larry-wall-on-perl-religion-and
+2013-03|coded|orsr|https://github.com/jreisinger/audit/tree/master/orsr

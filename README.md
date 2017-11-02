@@ -1,8 +1,9 @@
 ```
+passed   +
 attented +
-coded    +++++
 wrote    ++++++
-read     +++++++++
+read     ++++++++++
+coded    +++++++++++++
 ```
 
 2017-10
@@ -49,3 +50,25 @@ read     +++++++++
 * read [How Linux Works](https://www.nostarch.com/howlinuxworks2)
 * read [Intermediate Perl](https://www.intermediateperl.com/)
 * read [The Phonenix Project](https://en.wikipedia.org/wiki/The_Phoenix_Project_(novel))
+
+2013-09
+* coded [sysadmin utility belt](https://github.com/jreisinger/MyUtils)
+* coded [teacher](https://github.com/jreisinger/teacher)
+
+2013-08
+* coded [Otter scripts](https://github.com/jreisinger/linux/tree/master/otter)
+
+2013-07
+* coded [monitor](https://github.com/jreisinger/monitor)
+* coded [shell over HTTP](https://github.com/jreisinger/http-sh)
+
+2013-06
+* coded [geo-locate-ip.pl](https://github.com/jreisinger/linux/blob/master/geo-locate-ip.pl)
+
+2013-05
+* coded [dlznik.pl](https://github.com/jreisinger/audit/blob/master/scripts/dlznik.pl)
+* passed ICND1
+
+2013-03
+* read [L. Wall on Perl, religion, and...](http://interviews.slashdot.org/story/02/09/06/1343222/larry-wall-on-perl-religion-and)
+* coded [orsr](https://github.com/jreisinger/audit/tree/master/orsr)
