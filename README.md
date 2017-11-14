@@ -1,12 +1,13 @@
 ```
-attended +
 passed   +
+attended +
 wrote    ++++++
-read     ++++++++++++
 coded    ++++++++++++++
+read     ++++++++++++++
 ```
 
 2017-11
+* read [LPTHW](https://learnpythonthehardway.org/python3/)
 * coded [have-done](https://github.com/jreisinger/have-done)
 
 2017-10
@@ -81,3 +82,6 @@ coded    ++++++++++++++
 
 2008-12
 * read Classic Shell Scripting
+
+2000-01
+* read test
