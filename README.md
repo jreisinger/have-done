@@ -2,8 +2,8 @@
 passed   +
 attended +
 wrote    ++++++
+read     +++++++++++++
 coded    ++++++++++++++
-read     ++++++++++++++
 ```
 
 2017-11
@@ -82,6 +82,3 @@ read     ++++++++++++++
 
 2008-12
 * read Classic Shell Scripting
-
-2000-01
-* read test
