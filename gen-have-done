@@ -17,19 +17,37 @@ while (<>) {
       };
 }
 
-my %count;
-my $longest = 0;
+# Get all years when I have done (and recorded) something...
+my %years;
 for (@activities) {
-    $count{ $_->{type} }++;
-    $longest = length( $_->{type} ) if length( $_->{type} ) > $longest;
+    if ( $_->{date} =~ /^(\d{4})-/ ) {
+        $years{$1}++;
+    }
 }
 
-print "```\n";
-for ( sort { $count{$a} <=> $count{$b} } keys %count ) {
-    printf "%-${longest}s %s\n", $_, "+" x $count{$_};
-}
-print "```\n";
+# Print summary header in markdown format...
+for my $year ( reverse sort keys %years ) {
 
+    # Count by activity type and get the longest activity name...
+    my %count;
+    my $longest = 0;
+    for (@activities) {
+        next unless ( split '-', $_->{date} )[0] == $year;
+        $count{ $_->{type} }++;
+        $longest = length( $_->{type} ) if length( $_->{type} ) > $longest;
+    }
+
+    print "$year\n";
+
+    # Print statistics...
+    print "```\n";
+    for ( sort { $count{$a} <=> $count{$b} } keys %count ) {
+        printf "%-${longest}s %s\n", $_, "+" x $count{$_};
+    }
+    print "```\n";
+}
+
+# Print all activities in markdown format...
 my $date = "";
 for ( sort { $b->{date} cmp $a->{date} } @activities ) {
     print "\n$_->{date}\n" unless $_->{date} eq $date;
