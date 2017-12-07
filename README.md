@@ -1,9 +1,29 @@
+2017
 ```
-passed   +
 attended ++
-wrote    ++++++
-read     +++++++++++++
-coded    ++++++++++++++
+wrote    ++
+coded    +++
+read     +++++++
+```
+2016
+```
+read  +++
+coded +++
+wrote ++++
+```
+2013
+```
+read   +
+passed +
+coded  ++++++++
+```
+2010
+```
+read +
+```
+2008
+```
+read +
 ```
 
 2017-12
