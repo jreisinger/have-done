@@ -1,10 +1,13 @@
 ```
 passed   +
-attended +
+attended ++
 wrote    ++++++
 read     +++++++++++++
 coded    ++++++++++++++
 ```
+
+2017-12
+* attended [Google Cloud Summit](https://cloudplatformonline.com/Summit-Munich-2017.html)
 
 2017-11
 * read [LPTHW](https://learnpythonthehardway.org/python3/)
