@@ -1,0 +1,16 @@
+#!/bin/bash
+# update README from cron (TravisCI didn't work)
+
+# Make sure we clean up even if the script exits abnormally ...
+trap "exit 1"                   HUP INT PIPE QUIT TERM
+trap "rm -rf /tmp/have-done"    EXIT
+
+# Clone the repo
+cd /tmp
+timeout 20s git clone -q git@github.com:jreisinger/have-done.git
+[[ -d have-done ]] || exit 1
+
+cd have-done
+perl have-done activities.txt > README.md
+git commit -q -m "update README from cron" README.md > /dev/null
+git push -q
