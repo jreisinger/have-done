@@ -63,7 +63,7 @@ for my $year ( reverse sort keys %years ) {
 
     # Print statistics...
     print "```\n";
-    for ( sort { $count{$a} <=> $count{$b} } keys %count ) {
+    for ( sort { $count{$b} <=> $count{$a} } keys %count ) {
         printf "%-${longest}s %s\n", $_, "+" x $count{$_};
     }
     print "```\n";
