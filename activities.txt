@@ -1,9 +1,10 @@
-#YYYY[-MM]|ACTIVITY|SUBJECT|[URL]
+#YYYY[-MM]|ACTIVITY|SUBJECT[|URL]
 2017-12|attended|Google Cloud Summit|https://cloudplatformonline.com/Summit-Munich-2017.html
 2017-11|read|LPTHW|https://learnpythonthehardway.org/python3/
 2017-11|coded|have-done|https://github.com/jreisinger/have-done
 2017-10|attended|OpenSlava|http://www.openslava.sk/2017
 2017-09|read|Foundations of Python Network Programming|http://www.apress.com/gp/book/9781430258544
+2017-08|coded|gendoc
 2017-07|wrote|Devops|http://jreisinger.blogspot.sk/2017/07/devops.html
 2017-06|read|The Return of the King|
 2017-05|read|Programming in C|https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410
