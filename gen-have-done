@@ -2,6 +2,8 @@
 use strict;
 use warnings;
 
+die "Usage: $0 activities.txt\n" unless @ARGV == 1;
+
 my @activities;
 
 while (<>) {
