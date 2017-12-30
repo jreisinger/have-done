@@ -13,6 +13,7 @@ While honing your knowledge keep in mind these principles (based on The Pragmati
 * Stay current - read news, take classes, go to conferences
 * Contribute - QaA, blogs, code
 * Review and rebalance
+
 2017
 ```
 wrote    ++
@@ -28,8 +29,8 @@ wrote ++++
 ```
 2013
 ```
-passed +
 read   +
+passed +
 coded  ++++++++
 ```
 2010
