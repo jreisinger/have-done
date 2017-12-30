@@ -16,22 +16,22 @@ While honing your knowledge keep in mind these principles (based on The Pragmati
 
 2017
 ```
-wrote    ++
-attended ++
-coded    ++++
 read     +++++++
+coded    ++++
+attended ++
+wrote    ++
 ```
 2016
 ```
-coded +++
-read  +++
 wrote ++++
+read  +++
+coded +++
 ```
 2013
 ```
+coded  ++++++++
 passed +
 read   +
-coded  ++++++++
 ```
 2010
 ```
