@@ -1,20 +1,35 @@
+NOTE: this file was **generated** by `./gen-have-done`.
+
+> Read the manuals from front to back, then regularly read books and blogs.
+There's always more to learn. -- ULSAH, 5th
+
+You earn your living by having enough knowledge (theory) and experience
+(practice). However, these are expiring assets so you have to keep them fresh.
+While honing your knowledge keep in mind these principles (based on The Pragmatic Programmer):
+
+* Invest regularly - the *habit* itself is as important as the amount
+* Diversify - know the ins and outs of the technology you are working with
+  currently but *don't stop* there
+* Stay current - read news, take classes, go to conferences
+* Contribute - QaA, blogs, code
+* Review and rebalance
 2017
 ```
-attended ++
 wrote    ++
+attended ++
 coded    +++
 read     +++++++
 ```
 2016
 ```
-read  +++
 coded +++
+read  +++
 wrote ++++
 ```
 2013
 ```
-read   +
 passed +
+read   +
 coded  ++++++++
 ```
 2010
