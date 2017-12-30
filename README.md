@@ -17,9 +17,10 @@ While honing your knowledge keep in mind these principles (based on The Pragmati
 2017
 ```
 read     +++++++
-coded    ++++
+coded    +++++
+wrote    +++
+built    ++
 attended ++
-wrote    ++
 ```
 2016
 ```
@@ -43,6 +44,8 @@ read +
 ```
 
 2017-12
+* built Naxsi 0.1.0
+* coded Cog bundle for Naxsi (naxsi_status.py)
 * attended [Google Cloud Summit](https://cloudplatformonline.com/Summit-Munich-2017.html)
 
 2017-11
@@ -56,6 +59,8 @@ read +
 * read [Foundations of Python Network Programming](http://www.apress.com/gp/book/9781430258544)
 
 2017-08
+* built Splunk POC
+* wrote Git training (slides + demo)
 * coded gendoc
 
 2017-07
