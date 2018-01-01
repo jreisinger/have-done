@@ -25,14 +25,14 @@ built    ++
 2016
 ```
 wrote ++++
-coded +++
 read  +++
+coded +++
 ```
 2013
 ```
 coded  ++++++++
-read   +
 passed +
+read   +
 ```
 2010
 ```
