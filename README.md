@@ -25,14 +25,14 @@ attended ++
 2016
 ```
 wrote ++++
-read  +++
 coded +++
+read  +++
 ```
 2013
 ```
 coded  ++++++++
-passed +
 read   +
+passed +
 ```
 2010
 ```
