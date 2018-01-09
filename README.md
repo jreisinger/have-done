@@ -25,8 +25,8 @@ built    ++
 2016
 ```
 wrote ++++
-read  +++
 coded +++
+read  +++
 ```
 2013
 ```
