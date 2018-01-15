@@ -19,14 +19,14 @@ While honing your knowledge keep in mind these principles (based on The Pragmati
 read     +++++++
 coded    +++++
 wrote    +++
-built    ++
 attended ++
+built    ++
 ```
 2016
 ```
 wrote ++++
-read  +++
 coded +++
+read  +++
 ```
 2013
 ```
