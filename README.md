@@ -19,8 +19,8 @@ While honing your knowledge keep in mind these principles (based on The Pragmati
 read     +++++++
 coded    +++++
 wrote    +++
-attended ++
 built    ++
+attended ++
 ```
 2016
 ```
@@ -31,8 +31,8 @@ coded +++
 2013
 ```
 coded  ++++++++
-passed +
 read   +
+passed +
 ```
 2010
 ```
