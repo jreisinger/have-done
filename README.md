@@ -2,15 +2,22 @@ NOTE: this file was **generated** by `have-done`.
 
 You earn your living by having enough knowledge (theory) and experience
 (practice). However, these are *expiring* assets so you have to keep them
-fresh. While honing your knowledge keep in mind these principles (based on The
+fresh.
+
+While honing your *knowledge* keep in mind these principles (based on The
 Pragmatic Programmer):
 
-* Invest regularly - the *habit* itself is as important as the amount
+* Invest regularly - make learning a habit
 * Diversify - know the ins and outs of the technology you are working with
-  currently but *don't stop* there
+  currently but don't stop there
 * Stay current - read news, take classes, go to conferences
 * Contribute - QaA, blogs, code
-* Review and rebalance
+* Review and rebalance - this is a very dynamic industry
+
+> It's important to continue investing. Once you feel confortable with some new
+language or bit of technology, move on. Learn another one. It doesn't matter
+whether you ever use any of these technologies, or even whether you put them on
+your resume. -- The Pragmatic Programmer
 
 2018
 ```
@@ -21,8 +28,8 @@ attended +
 read     +++++++
 coded    +++++
 wrote    +++
-built    ++
 attended ++
+built    ++
 ```
 2016
 ```
@@ -33,8 +40,8 @@ coded +++
 2013
 ```
 coded  ++++++++
-read   +
 passed +
+read   +
 ```
 2010
 ```
