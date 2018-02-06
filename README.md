@@ -14,6 +14,10 @@ While honing your knowledge keep in mind these principles (based on The Pragmati
 * Contribute - QaA, blogs, code
 * Review and rebalance
 
+2018
+```
+attended +
+```
 2017
 ```
 read     +++++++
@@ -42,6 +46,9 @@ read +
 ```
 read +
 ```
+
+2018-02
+* attended Metasploit training
 
 2017-12
 * built Naxsi 0.1.0
