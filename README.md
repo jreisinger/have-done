@@ -4,8 +4,7 @@ You earn your living by having enough knowledge (theory) and experience
 (practice). However, these are *expiring* assets so you have to keep them
 fresh.
 
-While honing your *knowledge* keep in mind these principles (based on The
-Pragmatic Programmer):
+While honing your *knowledge* keep in mind these principles:
 
 * Invest regularly - make learning a habit
 * Diversify - know the ins and outs of the technology you are working with
@@ -40,8 +39,8 @@ coded +++
 2013
 ```
 coded  ++++++++
-read   +
 passed +
+read   +
 ```
 2010
 ```
