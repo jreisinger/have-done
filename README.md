@@ -2,9 +2,7 @@ NOTE: this file was **generated** by `have-done`.
 
 You earn your living by having enough knowledge (theory) and experience
 (practice). However, these are *expiring* assets so you have to keep them
-fresh.
-
-While honing your *knowledge* keep in mind these principles:
+fresh. While honing your *knowledge* keep in mind these principles:
 
 * Invest regularly - make learning a habit
 * Diversify - know the ins and outs of the technology you are working with
@@ -27,14 +25,14 @@ attended +
 read     +++++++
 coded    +++++
 wrote    +++
-built    ++
 attended ++
+built    ++
 ```
 2016
 ```
 wrote ++++
-read  +++
 coded +++
+read  +++
 ```
 2013
 ```
@@ -52,7 +50,7 @@ read +
 ```
 
 2018-02
-* attended Metasploit training
+* attended 2 day Metasploit training
 
 2017-12
 * built Naxsi 0.1.0
