@@ -20,6 +20,7 @@ your resume. -- The Pragmatic Programmer
 
 2018
 ```
+read     +
 attended +
 ```
 2017
@@ -27,8 +28,8 @@ attended +
 read     +++++++
 coded    +++++
 wrote    +++
-built    ++
 attended ++
+built    ++
 ```
 2016
 ```
@@ -39,8 +40,8 @@ read  +++
 2013
 ```
 coded  ++++++++
-passed +
 read   +
+passed +
 ```
 2010
 ```
@@ -50,6 +51,9 @@ read +
 ```
 read +
 ```
+
+2018-03
+* read Introducing Go
 
 2018-02
 * attended 2 day Metasploit training
