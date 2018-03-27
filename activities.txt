@@ -1,5 +1,6 @@
 #YYYY[-MM]|ACTIVITY_DONE|SUBJECT[|URL]
 2018-03|read|Introducing Go
+2018-03|attended|PyCon|https://2018.pycon.sk
 2018-02|attended|2 day Metasploit training
 2017-12|built|Naxsi 0.1.0
 2017-12|coded|Cog bundle for Naxsi (naxsi_status.py)
