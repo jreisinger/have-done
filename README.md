@@ -1,4 +1,4 @@
-NOTE: this file was **generated** by `have-done`.
+NOTE: this file was **generated** by `./have-done`.
 
 You earn your living by having enough knowledge (theory) and experience
 (practice). However, these are *expiring* assets so you have to keep them
@@ -20,28 +20,29 @@ your resume. -- The Pragmatic Programmer
 
 2018
 ```
-attended ++
-read     +
+presented ++
+attended  ++
+read      +
 ```
 2017
 ```
 read     +++++++
 coded    +++++
 wrote    +++
-built    ++
 attended ++
+built    ++
 ```
 2016
 ```
 wrote ++++
-read  +++
 coded +++
+read  +++
 ```
 2013
 ```
 coded  ++++++++
-read   +
 passed +
+read   +
 ```
 2010
 ```
@@ -51,6 +52,10 @@ read +
 ```
 read +
 ```
+
+2018-04
+* presented Docker swarm
+* presented [Limiting a Docker container's memory resource](https://gist.github.com/jreisinger/2f87098558d541cdbb7eb30b86163c39)
 
 2018-03
 * read Introducing Go
