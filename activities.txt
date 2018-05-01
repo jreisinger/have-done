@@ -1,5 +1,5 @@
 #YYYY[-MM]|ACTIVITY_DONE|SUBJECT[|URL]
-2018-04|code|Naxsi logs parsing script in Perl
+2018-04|coded|Naxsi logs parsing script in Perl
 2018-04|coded|Bash wrapper scripts for wafaas, netsec-containers
 2018-04|coded|profesia-jobs|https://github.com/jreisinger/profesia-jobs
 2018-04|presented|Docker swarm
