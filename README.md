@@ -20,19 +20,18 @@ your resume. -- The Pragmatic Programmer
 
 2018
 ```
-coded     ++
+coded     +++
 presented ++
 attended  ++
 read      +
-code      +
 ```
 2017
 ```
 read     +++++++
 coded    +++++
 wrote    +++
-attended ++
 built    ++
+attended ++
 ```
 2016
 ```
@@ -56,7 +55,7 @@ read +
 ```
 
 2018-04
-* code Naxsi logs parsing script in Perl
+* coded Naxsi logs parsing script in Perl
 * coded Bash wrapper scripts for wafaas, netsec-containers
 * coded [profesia-jobs](https://github.com/jreisinger/profesia-jobs)
 * presented Docker swarm
