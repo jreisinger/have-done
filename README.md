@@ -1,4 +1,4 @@
-NOTE: this file was **generated** by `./have-done`.
+NOTE: this file was **generated** by `have-done`.
 
 You earn your living by having enough knowledge (theory) and experience
 (practice). However, these are *expiring* assets so you have to keep them
