@@ -1,4 +1,4 @@
-NOTE: this file was **generated** by `have-done`.
+NOTE: this file was **generated** by `./have-done`.
 
 You earn your living by having enough knowledge (theory) and experience
 (practice). However, these are *expiring* assets so you have to keep them
@@ -24,6 +24,7 @@ coded     +++
 presented ++
 attended  ++
 read      +
+wrote     +
 ```
 2017
 ```
@@ -36,8 +37,8 @@ attended ++
 2016
 ```
 wrote ++++
-coded +++
 read  +++
+coded +++
 ```
 2013
 ```
@@ -53,6 +54,9 @@ read +
 ```
 read +
 ```
+
+2018-05
+* wrote [QaA](https://stackoverflow.com/questions/50394912/ansible-is-connecting-to-the-wrong-hosts-when-using-jump-host/50394913#50394913)
 
 2018-04
 * coded Naxsi logs parsing script in Perl
