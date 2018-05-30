@@ -1,5 +1,5 @@
 #YYYY[-MM]|ACTIVITY_DONE|SUBJECT[|URL]
-2018-05|wrote|QaA|https://stackoverflow.com/questions/50394912/ansible-is-connecting-to-the-wrong-hosts-when-using-jump-host/50394913#50394913
+2018-05|wrote|QaA|https://stackoverflow.com/questions/50394912/ansible-is-connecting-to-the-wrong-hosts-when-using-jump-host
 2018-04|coded|Naxsi logs parsing script in Perl
 2018-04|coded|Bash wrapper scripts for wafaas, netsec-containers
 2018-04|coded|profesia-jobs|https://github.com/jreisinger/profesia-jobs

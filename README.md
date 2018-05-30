@@ -23,28 +23,28 @@ your resume. -- The Pragmatic Programmer
 coded     +++
 presented ++
 attended  ++
-read      +
 wrote     +
+read      +
 ```
 2017
 ```
 read     +++++++
 coded    +++++
 wrote    +++
-built    ++
 attended ++
+built    ++
 ```
 2016
 ```
 wrote ++++
-read  +++
 coded +++
+read  +++
 ```
 2013
 ```
 coded  ++++++++
-passed +
 read   +
+passed +
 ```
 2010
 ```
@@ -56,7 +56,7 @@ read +
 ```
 
 2018-05
-* wrote [QaA](https://stackoverflow.com/questions/50394912/ansible-is-connecting-to-the-wrong-hosts-when-using-jump-host/50394913#50394913)
+* wrote [QaA](https://stackoverflow.com/questions/50394912/ansible-is-connecting-to-the-wrong-hosts-when-using-jump-host)
 
 2018-04
 * coded Naxsi logs parsing script in Perl
