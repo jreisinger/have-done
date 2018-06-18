@@ -21,10 +21,10 @@ your resume. -- The Pragmatic Programmer
 2018
 ```
 coded     +++
-presented ++
 attended  ++
+presented ++
+read      ++
 wrote     +
-read      +
 ```
 2017
 ```
@@ -37,8 +37,8 @@ built    ++
 2016
 ```
 wrote ++++
-coded +++
 read  +++
+coded +++
 ```
 2013
 ```
@@ -54,6 +54,9 @@ read +
 ```
 read +
 ```
+
+2018-06
+* read Introducing Python
 
 2018-05
 * wrote [QaA](https://stackoverflow.com/questions/50394912/ansible-is-connecting-to-the-wrong-hosts-when-using-jump-host)
