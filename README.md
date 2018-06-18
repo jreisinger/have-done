@@ -1,4 +1,4 @@
-NOTE: this file was **generated** by `./have-done`.
+NOTE: this file was **generated** by `have-done`.
 
 You earn your living by having enough knowledge (theory) and experience
 (practice). However, these are *expiring* assets so you have to keep them
@@ -21,8 +21,8 @@ your resume. -- The Pragmatic Programmer
 2018
 ```
 coded     +++
-presented ++
 attended  ++
+presented ++
 wrote     +
 read      +
 ```
@@ -31,14 +31,14 @@ read      +
 read     +++++++
 coded    +++++
 wrote    +++
-attended ++
 built    ++
+attended ++
 ```
 2016
 ```
 wrote ++++
-coded +++
 read  +++
+coded +++
 ```
 2013
 ```
