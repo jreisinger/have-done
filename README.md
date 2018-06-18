@@ -21,9 +21,9 @@ your resume. -- The Pragmatic Programmer
 2018
 ```
 coded     +++
+read      +++
 attended  ++
 presented ++
-read      ++
 wrote     +
 ```
 2017
@@ -57,6 +57,7 @@ read +
 
 2018-06
 * read Introducing Python
+* read Povoláním člověk
 
 2018-05
 * wrote [QaA](https://stackoverflow.com/questions/50394912/ansible-is-connecting-to-the-wrong-hosts-when-using-jump-host)
