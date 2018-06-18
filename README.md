@@ -21,8 +21,8 @@ your resume. -- The Pragmatic Programmer
 2018
 ```
 coded     +++
-presented ++
 attended  ++
+presented ++
 read      ++
 wrote     +
 ```
@@ -31,14 +31,14 @@ wrote     +
 read     +++++++
 coded    +++++
 wrote    +++
-built    ++
 attended ++
+built    ++
 ```
 2016
 ```
 wrote ++++
-read  +++
 coded +++
+read  +++
 ```
 2013
 ```
