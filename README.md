@@ -21,9 +21,9 @@ your resume. -- The Pragmatic Programmer
 2018
 ```
 coded     +++
+presented +++
 read      +++
 attended  ++
-presented ++
 wrote     +
 ```
 2017
@@ -57,6 +57,7 @@ read +
 
 2018-06
 * read Introducing Python
+* presented Containers (Campus)
 * read Povoláním člověk
 
 2018-05
