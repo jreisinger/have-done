@@ -20,7 +20,7 @@ your resume. -- The Pragmatic Programmer
 
 2018
 ```
-coded     +++
+coded     ++++
 presented +++
 read      +++
 attended  ++
@@ -56,6 +56,7 @@ read +
 ```
 
 2018-06
+* coded [quotes](https://github.com/jreisinger/quotes)
 * read Introducing Python
 * presented Containers (Campus)
 * read Povoláním člověk
