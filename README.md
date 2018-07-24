@@ -61,7 +61,7 @@ read +
 
 2018-06
 * coded [quotes](https://github.com/jreisinger/quotes)
-* read Introducing Python
+* read [Introducing Python](https://www.safaribooksonline.com/library/view/introducing-python/9781449361167/)
 * presented Containers (Campus)
 * read Povoláním člověk
 

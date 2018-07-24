@@ -1,7 +1,7 @@
 #YYYY[-MM]|ACTIVITY_DONE|SUBJECT[|URL]
 2018-07|took|2.5 week vacation
 2018-06|coded|quotes|https://github.com/jreisinger/quotes
-2018-06|read|Introducing Python
+2018-06|read|Introducing Python|https://www.safaribooksonline.com/library/view/introducing-python/9781449361167/
 2018-06|presented|Containers (Campus)
 2018-06|read|Povoláním člověk
 2018-05|wrote|QaA|https://stackoverflow.com/questions/50394912/ansible-is-connecting-to-the-wrong-hosts-when-using-jump-host
