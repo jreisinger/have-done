@@ -13,7 +13,7 @@ fresh. While honing your *knowledge* keep in mind these principles:
 * *Think* critically about what you read and hear - be aware of vendors
   interests, media hype, dogma and your project
 
-> It's important to continue investing. Once you feel confortable with some new
+> It's important to continue investing. Once you feel comfortable with some new
 language or bit of technology, move on. Learn another one. It doesn't matter
 whether you ever use any of these technologies, or even whether you put them on
 your resume. -- The Pragmatic Programmer
