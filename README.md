@@ -24,6 +24,7 @@ coded     ++++
 presented +++
 read      +++
 attended  ++
+took      +
 wrote     +
 ```
 2017
@@ -54,6 +55,9 @@ read +
 ```
 read +
 ```
+
+2018-07
+* took 2.5 week vacation
 
 2018-06
 * coded [quotes](https://github.com/jreisinger/quotes)
