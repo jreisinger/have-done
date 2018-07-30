@@ -21,11 +21,11 @@ your resume. -- The Pragmatic Programmer
 2018
 ```
 coded     ++++
-presented +++
+presented ++++
 read      +++
 attended  ++
+wrote     ++
 took      +
-wrote     +
 ```
 2017
 ```
@@ -57,6 +57,8 @@ read +
 ```
 
 2018-07
+* presented LBaaS
+* wrote [Kubernetes](https://github.com/jreisinger/blog/blob/master/posts/kubernetes.md)
 * took 2.5 week vacation
 
 2018-06
