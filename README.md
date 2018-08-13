@@ -20,11 +20,12 @@ your resume. -- The Pragmatic Programmer
 
 2018
 ```
-coded     ++++
+coded     +++++
 presented ++++
 read      +++
 attended  ++
 wrote     ++
+setup     +
 took      +
 ```
 2017
@@ -55,6 +56,10 @@ read +
 ```
 read +
 ```
+
+2018-08
+* setup Prometheus alerts and Ansible playbooks for checking free IP addresses
+* coded Bash and Perl script for checking free IP addresses
 
 2018-07
 * presented LBaaS

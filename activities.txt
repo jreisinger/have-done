@@ -1,4 +1,6 @@
 #YYYY[-MM]|ACTIVITY_DONE|SUBJECT[|URL]
+2018-08|setup|Prometheus alerts and Ansible playbooks for checking free IP addresses
+2018-08|coded|Bash and Perl scripts for checking free IP addresses
 2018-07|presented|LBaaS
 2018-07|wrote|Kubernetes|https://github.com/jreisinger/blog/blob/master/posts/kubernetes.md
 2018-07|took|2.5 week vacation
