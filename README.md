@@ -59,7 +59,7 @@ read +
 
 2018-08
 * setup Prometheus alerts and Ansible playbooks for checking free IP addresses
-* coded Bash and Perl script for checking free IP addresses
+* coded Bash and Perl scripts for checking free IP addresses
 
 2018-07
 * presented LBaaS
