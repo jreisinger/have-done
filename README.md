@@ -24,9 +24,9 @@ coded     +++++
 presented ++++
 read      +++
 attended  ++
+took      ++
 wrote     ++
 setup     +
-took      +
 ```
 2017
 ```
@@ -58,6 +58,7 @@ read +
 ```
 
 2018-08
+* took 1 week vacation (with Pete UK)
 * setup Prometheus alerts and Ansible playbooks for checking free IP addresses
 * coded Bash and Perl scripts for checking free IP addresses
 
