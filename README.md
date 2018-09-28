@@ -20,12 +20,12 @@ your resume. -- The Pragmatic Programmer
 
 2018
 ```
-coded     +++++
+coded     ++++++
 presented ++++
-read      +++
+read      ++++
+wrote     +++
 attended  ++
 took      ++
-wrote     ++
 setup     +
 ```
 2017
@@ -56,6 +56,11 @@ read +
 ```
 read +
 ```
+
+2018-09
+* wrote [Perl One Liners](https://jreisinger.github.io/notes/posts/perl-one-liners/)
+* coded several small Golang programs
+* read several Golang resources (books, videos)
 
 2018-08
 * took 1 week vacation (with Pete UK)

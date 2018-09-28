@@ -1,4 +1,7 @@
 #YYYY[-MM]|ACTIVITY_DONE|SUBJECT[|URL]
+2018-09|wrote|Perl One Liners|https://jreisinger.github.io/notes/posts/perl-one-liners/
+2018-09|coded|several small Golang programs
+2018-09|read|several Golang resources (books, videos)
 2018-08|took|1 week vacation (with Pete UK)
 2018-08|setup|Prometheus alerts and Ansible playbooks for checking free IP addresses
 2018-08|coded|Bash and Perl scripts for checking free IP addresses
