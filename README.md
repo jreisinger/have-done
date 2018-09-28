@@ -25,8 +25,8 @@ presented ++++
 read      ++++
 wrote     +++
 attended  ++
+built     ++
 took      ++
-setup     +
 ```
 2017
 ```
@@ -59,12 +59,13 @@ read +
 
 2018-09
 * wrote [Perl One Liners](https://jreisinger.github.io/notes/posts/perl-one-liners/)
+* built [alarm](https://github.com/jreisinger/alarm)
 * coded several small Golang programs
 * read several Golang resources (books, videos)
 
 2018-08
 * took 1 week vacation (with Pete UK)
-* setup Prometheus alerts and Ansible playbooks for checking free IP addresses
+* built Prometheus alerts and Ansible playbooks for checking free IP addresses
 * coded Bash and Perl scripts for checking free IP addresses
 
 2018-07
