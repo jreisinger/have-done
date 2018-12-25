@@ -27,8 +27,8 @@ wrote     +++
 attended  ++
 built     ++
 took      ++
+watched   ++
 answered  +
-watched   +
 ```
 2017
 ```
@@ -58,6 +58,9 @@ read +
 ```
 read +
 ```
+
+2018-12
+* watched [Introduction to Go Programming (for the 3rd time)](https://www.safaribooksonline.com/videos/introduction-to-go/9781491913871)
 
 2018-10
 * answered [Q&A](https://stackoverflow.com/questions/4632028/how-to-create-a-temporary-directory/53063602#53063602)
