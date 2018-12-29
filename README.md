@@ -61,7 +61,7 @@ read +
 
 2018-12
 * watched [Introduction to Go Programming (for the 3rd time)](https://www.safaribooksonline.com/videos/introduction-to-go/9781491913871)
-* read Letmý Sneh
+* read [Letmý Sneh](https://www.martinus.sk/?uItem=183781)
 * wrote [Camel vs. Gopher](https://perlmonks.org/?node_id=1226977)
 
 2018-10
